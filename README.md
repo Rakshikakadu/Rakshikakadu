@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" alt="Coding" width="600px" align="center" />
 
-<p align="left"> <img src="https://rakshikakadu.com/ghpvc/?username=rakshikakadu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshikakadu" /> </p>
+<!-- <p align="left"> <img src="https://rakshikakadu.com/ghpvc/?username=rakshikakadu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshikakadu" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshikakadu" alt="rakshikakadu" /></a> </p>
 
