@@ -9,6 +9,8 @@
 
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="right"  />
  
+ <br><br>
+ 
 - 🌱 I’m currently learning **Java | Hibernate | SpringBoot | AWS**
 
 - 💬 Ask me about **Java**
@@ -18,13 +20,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display="flex" ">
+<!-- <p align="left" style="display="flex" "> -->
 
 <a href="https://linkedin.com/in/rakshika-kadu-a492b5235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rakshika Kadu" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/rakshikakadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakshikakadu" height="30" width="40" /></a>
 
-</p>
+<!-- </p> -->
 <br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p>
