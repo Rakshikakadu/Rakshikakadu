@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **rakshikakadu@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -23,7 +25,7 @@
 <a href="https://www.hackerrank.com/rakshikakadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakshikakadu" height="30" width="40" /></a>
 
 </p>
-
+<br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
