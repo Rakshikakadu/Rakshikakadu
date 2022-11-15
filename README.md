@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshika Kadu</h1>
 <h3 align="center">Aspiring java Backend Developer</h3>
 
-<img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" alt="Coding" width="600px" align="center" />
+<img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="center" />
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshikakadu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshikakadu" /> </p>
 
