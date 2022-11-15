@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshikakadu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshikakadu" /> </p>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="center" />
 
- 
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshikakadu" alt="rakshikakadu" /></a> </p>
 
-
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="right" margin-top="100px" />
 - 🌱 I’m currently learning **Java | Hibernate | SpringBoot | AWS**
 
 - 💬 Ask me about **Java**
