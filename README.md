@@ -49,15 +49,17 @@
 <img alt="Hybernate" src="https://img.shields.io/badge/Hybernate-323330?style=for-the-badge&logo=Hybernate&logoColor=F7DF1E"  height="25px"/>
 </p>
 
-<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshikakadu&show_icons=true&locale=en&layout=compact" alt="rakshikakadu" /></p>
-<br>
+<br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" /></p>
-
+<div>
+<p>
+ <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" />
+ <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" />
+</p>
+ </div>                                                                                                               
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshika kadu" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" alt="Rakshika kadu" height="255px" width="70%"/>
