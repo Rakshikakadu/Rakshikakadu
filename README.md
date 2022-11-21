@@ -7,7 +7,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshikakadu" alt="rakshikakadu" /></a> </p>
 
- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="right"  />
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
  
  <br><br>
  
@@ -39,8 +39,6 @@
 <img alt="Java" src="https://img.shields.io/badge/JAVA-F7B93E?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 
-<img alt="Web API FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="25px"/>
-
 
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
@@ -55,6 +53,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshikakadu&show_icons=true&locale=en&layout=compact" alt="rakshikakadu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" /></p>
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshika kadu" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" alt="Rakshika kadu" height="255px" width="70%"/>
+<div>
