@@ -55,12 +55,17 @@
 <br><br>
 
 <div>
-<p>
- <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" />
- <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" />
+  <p align="left"> 
+   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
- </div>                                                                                                               
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshika kadu" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" alt="Rakshika kadu" height="255px" width="70%"/>
-</p>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshikakadu" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
+
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
