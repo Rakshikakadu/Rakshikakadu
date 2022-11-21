@@ -20,13 +20,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left" style="display="flex" "> -->
+<p align="left" style="display="flex" ">
 
 <a href="https://linkedin.com/in/rakshika-kadu-a492b5235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rakshika Kadu" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/rakshikakadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakshikakadu" height="30" width="40" /></a>
 
-<!-- </p> -->
+</p>
 <br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -52,12 +52,13 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshikakadu&show_icons=true&locale=en&layout=compact" alt="rakshikakadu" /></p>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshikakadu&show_icons=true&locale=en" alt="rakshikakadu" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshikakadu&" alt="rakshikakadu" /></p>
 
-<div>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshika kadu" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" alt="Rakshika kadu" height="255px" width="70%"/>
-<div>
+</p>
