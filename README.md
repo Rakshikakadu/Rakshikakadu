@@ -63,7 +63,7 @@
 
   
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshikakadu" height="260px" width="25%" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshikakadu&theme=radical&langs_count=8" alt="Rakshikakadu" height="260px" width="25%" /> -->
  
 <!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rakshikakadu&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
 
