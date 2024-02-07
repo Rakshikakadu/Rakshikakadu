@@ -11,7 +11,7 @@
  
  <br><br>
  
-- 🌱 I’m currently learning **Java | Hibernate | SpringBoot | AWS**
+- 🌱 **Java | Hibernate | SpringBoot | AWS**
 
 - 💬 Ask me about **Java**
 
